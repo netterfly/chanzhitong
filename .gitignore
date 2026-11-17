@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+发布维护指南.md
+.env
+.env.*
+*.log
